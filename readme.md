@@ -64,6 +64,6 @@ python app.py
 ```
 
 ---
-## Testing
+## 🖱️ Demo Testing
 
 ![Virtual Mouse Demo](src/img/test_img.png)
