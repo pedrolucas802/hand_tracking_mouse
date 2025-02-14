@@ -62,3 +62,8 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+
+---
+## Testing
+
+![Virtual Mouse Demo](src/img/test_img.png)
